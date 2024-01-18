@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "eb1d1322-795e-4a36-b246-c6d85dc7e3c9",
+		"name": "Certa collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "24509390"
+	},
+	"item": [
+		{
+			"name": "certa_getreq",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
